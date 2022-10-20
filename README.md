@@ -1,1 +1,1 @@
-[`🎓 Student: RS School`](https://rs.school/js) `👷 Speciality: JavaScript Frontend Developer` [`☄️ CodeWars: 5kyu`](https://www.codewars.com/users/artpotlov) [`💬 Telegram: artpotlov`](https://t.me/artpotlov) [`📧 E-mail: potlov.artem@gmail.com`](mailto:potlov.artem@gmail.com)
+👷 Speciality: Frontend Developer` [`☄️ CodeWars: 4kyu`](https://www.codewars.com/users/artpotlov) [`💬 Telegram: artpotlov`](https://t.me/artpotlov) [`📧 E-mail: potlov.artem@gmail.com`](mailto:potlov.artem@gmail.com)
